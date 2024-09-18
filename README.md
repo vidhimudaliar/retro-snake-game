@@ -2,6 +2,9 @@
 
 A fun retro-themed Snake Game, designed with HTML, CSS, and JavaScript, and styled to bring back nostalgic vibes using the VT323 font.
 
+## Live Demo
+https://vidhimudaliar.github.io/retro-snake-game/
+
 ## Features
 
 - Classic Snake game mechanics.
